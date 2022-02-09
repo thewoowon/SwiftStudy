@@ -17,4 +17,4 @@ waiting for update
 
 # Usage
 
-XCode IDE에서 실행하시길 
+XCode IDE에서 실행하시길 권장합니다.
